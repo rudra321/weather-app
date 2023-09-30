@@ -10,4 +10,4 @@
   2. Go to open weather to get your api-key
   3. Edit config.js file and enter your api-key there
   4. It will take few hours for your api key to activate so do some other work
-  5. npm start now(given you have installed everything)
+  5. npm start now (given you have installed everything)
